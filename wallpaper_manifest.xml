@@ -13,6 +13,14 @@
         date="<date added>" may be used for filtering later
         name="<wallpaper name">
     -->
+    
+    <category name="Android L" >
+    
+    	<wallpaper
+    	    author="Google Android"
+    	    url="http://i59.tinypic.com/k48rx3.jpg" />
+    	    
+    </category>
 
     <category name="PAC Wallpapers" >
 
